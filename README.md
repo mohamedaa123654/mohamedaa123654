@@ -40,7 +40,7 @@
 
  شركة حراسات أمينة من أفضل شركات الحراسات الأمنية التي تقدم خدماتها في كافة أنحاء المملكة العربية السعودية تعرف على خدماتنا و اخبار الشركة من خلال التطبيق يمكنك ايض طلب الخدمة او الانضمام إلينا 
 
-<p><a href="https://play.google.com/store/apps/details?id=com.loqman.security" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a><p>
+<p><a href="https://play.google.com/store/apps/details?id=com.loqman.security" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/%D8%AD%D8%B1%D8%A7%D8%B3%D8%A7%D8%AA-%D8%A7%D9%85%D9%86%D9%8A%D8%A9/id1548021678" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 <hr>
 
